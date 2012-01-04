@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
   s.authors     = ["Ryan Mohr"]
   s.email       = ["ryan.mohr@gmail.com"]
-  s.homepage    = "http://github.com/islandr/peeper"
+  s.homepage    = "http://github.com/islandr/peeper.js"
   s.summary     = %q{Vendors peeper.js for rails}
   #s.description = %q{TODO: Write a gem description}
 
