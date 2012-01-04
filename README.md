@@ -1,6 +1,6 @@
 # peeper-rails
 
-Vendors [peeper.js](https://github.com/islandr/peeper.js) for rails.  Version will always mirror underlying peeper source version.
+Vendors latest version of [peeper.js](https://github.com/islandr/peeper.js) for rails.
 
 # Installation
 
